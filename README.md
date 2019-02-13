@@ -1,5 +1,7 @@
 # Vuejs Todo App
 
+Check the app on https://amazing-spence-8795a1.netlify.com/
+
 ## Project setup
 ```
 npm install
